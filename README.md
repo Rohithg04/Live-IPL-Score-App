@@ -1,1 +1,1 @@
-Live IPL Score App Using React and JavaScript
+Live IPL Score App Using React.JS and JavaScript
